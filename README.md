@@ -25,5 +25,5 @@ step 11 doing randomized search cv
 
 step 12 now finally testing the model on testing set and chhecking the accuracy and error of different models
 
-                         THE END
+                                                                                  THE END
 
